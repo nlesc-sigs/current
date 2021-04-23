@@ -15,7 +15,7 @@ Analytics
        -->
 - Sarah Alidoost
 - Johan Hidding
-- Dafne van Kuppevelt
+- Pablo Rodríguez-Sánchez
 
 ## What is SIG’s mission?
 <!--  help text goes here  -->
@@ -30,7 +30,7 @@ The mission of this SIG in the broadest sense, is to raise general knowledge on 
 Analytics@esciencecenter.nl
 
 ## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
-On May 14th we had a meeting were discussed the outcomes of the survey among the Analytics SIG members. 
+On May 14th we had a meeting were discussed the outcomes of the survey among the Analytics SIG members.
 
 We had the following presentations:
 - May 11: Johan Hidding - "Complex Systems"
@@ -50,6 +50,7 @@ In the remaining sessions, we worked through chapter 2.6 in the book [A first co
 
 Some of the topics we want to explore are:
 - Network Science
+- Random walks and stochasticity
 - Data cleaning for AI, e.g. filling missing values
 - Numerical computational techniques
 
