@@ -13,7 +13,7 @@
 | Monday 13:00   | 4/4     | [Data](granted/data.md)                                       | Arnold & Carlos         |
 | &nbsp;         | &nbsp;  | &nbsp; |                                                      | &nbsp;                  |
 | Thursday 13:00 | 1/3     | [GPU](granted/gpu.md)                                         | Ben & Alessio           |
-| Thursday 13:00 | 2/3     | [Soft Skills](granted/soft-skills.md)                         | Pablo L & Willem        |
+| Thursday 13:00 | 2/3     | [Soft Skills](granted/soft-skills.md)                         | Jaro & Maaike           |
 | Thursday 13:00 | 3/3     | [UX](granted/ux.md)                                           | Jesus & Sven            |
 | &nbsp;         | &nbsp;  | &nbsp; |                                                      | &nbsp;                  |
 | Thursday 14:00 | 1/4     | [Agile](granted/agile.md)                                     | Berend & Niels          |
