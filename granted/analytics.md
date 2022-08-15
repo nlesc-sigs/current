@@ -13,9 +13,9 @@ Analytics
         Hour type: 00071
         Notes: Hours for X SIG
        -->
-- Sarah Alidoost
+- Artur Palha
 - Johan Hidding
-- Dafne van Kuppevelt
+- Pablo Rodríguez
 
 ## What is SIG’s mission?
 <!--  help text goes here  -->
