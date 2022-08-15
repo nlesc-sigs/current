@@ -5,7 +5,7 @@
 | Weekly slot    | "Phase" | SIG name                                                      | SIG Leads               |
 | :--            | :--     | :--                                                           | :--                     |
 | Monday 11:00   | 1/2     | [Machine Learning](granted/machine-learning.md)               | Sonja & Florian         |
-| Monday 11:00   | 2/2     | [Analytics](granted/analytics.md)                             | Sarah, Johan H. & Dafne |
+| Monday 11:00   | 2/2     | [Analytics](granted/analytics.md)                             | Pablo R., Artur, Johan  |
 | &nbsp;         | &nbsp;  | &nbsp;                                                        | &nbsp;                  |
 | Monday 13:00   | 1/4     | [Software Sustainability](granted/software-sustainability.md) | Mateusz & Carlos        |
 | Monday 13:00   | 2/4     | [Natural Language Processing](granted/nlp.md)                 | Erik & Jisk             |
