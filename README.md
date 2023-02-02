@@ -12,7 +12,7 @@
 | Thursday 2023-02-02 14:30 | 6    | [Analytics #2](granted/analytics.md)                          |          |
 | Thursday 2023-02-09 9:30  | 7    | [Soft Skills](granted/soft-skills.md)                         |          |
 | Thursday 2023-02-09 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 |          |
-| Thursday 2023-02-09 14:30 | 9    | Science Communication                                         |          |
+| Thursday 2023-02-09 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-02-16 9:30  | 10   | Quantum Computing                                             |          |
 | Thursday 2023-02-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               |          |
 | Thursday 2023-02-16 14:30 | 12   | [GPU #2](granted/gpu.md)                                      |          |
@@ -24,7 +24,7 @@
 | Thursday 2023-03-02 14:30 | 6    | [Analytics #2](granted/analytics.md)                          |          |
 | Thursday 2023-03-09 9:30  | 7    | [Soft Skills](granted/soft-skills.md)                         |          |
 | Thursday 2023-03-09 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 |          |
-| Thursday 2023-03-09 14:30 | 9    | Science Communication                                         |          |
+| Thursday 2023-03-09 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-03-16 9:30  | 10   | Quantum Computing                                             |          |
 | Thursday 2023-03-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               |          |
 | Thursday 2023-03-16 14:30 | 12   | [GPU #2](granted/gpu.md)                                      |          |
