@@ -5,48 +5,55 @@
       Make it specific enough to be meaningful,
       but broad enough to give you room  to shift focus when necessary.  -->
 Soft-Skills SIG (SSS)
-## Which two persons will act as SIG Leads?
-<!--  Please make sure to have two SIG leads to reduce bus factor.
+
+## Which person will act as SIG Lead?
+<!--  This person acts as main point of contact and is responsible for planning the SIG.
       SIG leads are allowed to write the hours dedicated to organizing
-      SIG activities under the R&D budget. Please mention in the notes the
+      SIG activities under the KD budget. Please mention in the notes the
       name of your SIG:
         Account: 000104
-        Project: 020203
-        Hour type: 00071
+        Project: 00020233
+        Hour type: 00072
         Notes: Hours for X SIG
        -->
 - Pablo Lopez-Tarifa
 - Willem van Hage
+- Jaro Camphuijsen
+- Maaike de Jong
 
 ## What is SIG’s mission?
 <!--  help text goes here  -->
-To increase the soft skills level at the Netherlands eScience Center.
+To discuss and develop soft skills related to our work at the eScience Center and create a safe space to do so
 
 ## What is the GitHub repository of the SIG use?
 <!--  Please transfer your SIG existing repo to this GitHub organization  -->
-https://github.com/nlesc-sigs/soft-skills
+<!-- https://github.com/nlesc-sigs/soft-skills -->
+https://github.com/NLeSC/Soft-Skills-SIG
 
 ## What is the Office group that the SIG uses?
 <!--  help text goes here  -->
 Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7d9b9b4521f5b7eb91%40thread.tacv2/conversations?groupId=c373a0f6-88c9-47d6-b318-cd998d7efa51&tenantId=aa3aeacc-6307-42b2-ac05-787dd5c32574).
 
-## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
+## SIG outcomes of the past year (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 * We have provided a place where participants feel comfortable to share knowledge and experiences related to Soft-Skills (our main target).
-* We have written a conflict resolution document that potentially will be merged with the Precomplaint protocol. This document is a compilation of useful resources and guidance about what to do in a given conflict situation at the Center.
-* We have revised the colloquium format. Now we will have an official colloquium moderator and optional feedback for presenters, among other novelties. The new format is pending to be published at the QI. 
+* We have discussed various topics related to mental health. This has been a very important topic for many employees in the light of the corona lock-downs and the increased working from home that remained.
+* We have started drafting official best-practice guidelines for hosting hybrid meetings.
 
 
-## Plans for the period until the end of April 2021
+## Plans for the coming year
 <!--  help text goes here  -->
-- **Profit from the Soft-Skill knowledge that we already have at the eScience Center**: For this period we would like to be focused on the sharing part of the Soft-Skill SIG. We know there is already a lot of soft-skill knowledge among the eScience Center employees. Our purpose is to organise specific topic sessions with special invitees (from HR, MT, Support Team ...) not only to share this knowledge but also to identify niches of improvement where the Soft-Skill SIG can help. We already have two sessions on mind:
-    - **Session on coaching from the LM perspective** (scheduled for 19/11): We would like to know more about how line-managers coach their supervised engineers.
-    - **Session on networking** (planned for the beginning of 2021): We would like to invite community managers to share experience and tips on how to maintain and strengthen a network. 
+We have received feedback as a result of a feedback session we organized at the end of 2022. This feedback is guiding our plans for coming year:
 
+- **Remain the safe space for soft skills**: The Soft Skills SIG is for many people the place to talk about how to deal with the more personal/emotional issues, share experiences and get feedback in a safe environment. Our main goal is to remain that safe environment that so many people value.
+- **Hybrid meetings document**: Finalize the hybrid meetings document to become the official eScience Center guidelines on hosting hybrid meetings. If suited, the document can be converted to a blogpost for sharing externally.
+- **Series of meetings about feedback**: By popular demand, we will cover the topic of giving and receiving feedback in a series of 2 or 3 meetings. The series will at least contain a general session about feedback (similar to our session in 2021) and a session specific to feedback in the work we do. Potentially this second topic is split into digital feedback (code reviews, pull requests, comments in documents, etc.) and live feedback (in teams, at presentations, to project partners, etc.).
+- **Balance and variety in meetings**: Last year we identified three meeting formats that fit well for the soft skills SIG: (1) Open discussion on a particular topic, often preceded by a short "own experience" presentation by a member of the SIG, (2) Hour filling talks by invited (external) speaker about specific topic, (3) Hands-on session to develop materials or practice specific skills. We want to find a good balance over the year between the various meeting formats and covering a wide reange of topics (topics are collected and organized in the [SIG github repository](https://github.com/NLeSC/Soft-Skills-SIG/projects/1)) 
+- **Relation to the HR Soft Skills program**: With the initialization of the HR Soft Skills program last year, including trainings in various soft skills topics, the Soft Skills SIG had to reconsider their role and value in the eScience Center. We found however that the two are complementary, where the Soft Skills SIG still takes the role of the highly valued safe space where members can discuss sensitive topics in high confidence, do hands-on work and discuss more advanced/specialized topics that do not fit in the HR program. The HR program in turn has budget and can demand from employees to follow specific basic trainings. In the coming year the Soft Skills SIG will aim to take an advisory role for the HR program and give feedback on previous trainings and suggestions for future trainings. 
 
 ## What are the expected outputs of the SIG?
 <!--  Think of internal as well as external dissemination targets -->
-Our main focus for the next period is to continue providing a comfortable place for people to share knowledge and experience on Soft-Skills.
-
-We would like to identify organisation areas linked to soft-skills that might need improvement. This can imply the writing of protocol document as we did with the new colloquium format (linked to presentation skills) and the first-aid protocol (linked to non-violent communication) as explained above.
-
+- Hybrid meetings best practices (internal document and blog post)
+- Suggestions for HR training program
+- Guide on giving and receiving eScience related feedback (blogpost and/or internal document)
+- Slide decks about various topics
