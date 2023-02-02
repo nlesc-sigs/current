@@ -16,7 +16,6 @@
 | Thursday 2023-02-16 9:30  | 10   | Quantum Computing                                             |          |
 | Thursday 2023-02-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               |          |
 | Thursday 2023-02-16 14:30 | 12   | [GPU #2](granted/gpu.md)                                      |          |
-
 | Thursday 2023-02-23 9:30  | 1    | [Data](granted/data.md)                                       |          |
 | Thursday 2023-02-23 13:30 | 2    | [Software Sustainability](granted/software-sustainability.md) |          |
 | Thursday 2023-02-23 14:30 | 3    | [Analytics #1](granted/analytics.md)                          |          |
