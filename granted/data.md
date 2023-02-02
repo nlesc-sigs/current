@@ -16,10 +16,13 @@ https://github.com/nlesc-sigs/data-sig
 ldm@esciencecenter.nl
 
 ## SIG outcomes of the past year (for existing SIGs)
--
+- Presentations about ArangoDB (Stefan), Pointclouds (Thijs)
+- Stimulated people to attend the TU Delft workshop on nD-Pointclouds
 
 ## Plans for the coming year
-- 
+- Presentation on Linked Data
+- Capita selecta from currently running projects
+- Data design discussion sessions
 
 ## What are the expected outputs of the SIG?
-- 
+- Presentation slides and recordings
