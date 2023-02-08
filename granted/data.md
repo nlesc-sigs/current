@@ -20,7 +20,9 @@ ldm@esciencecenter.nl
 - Stimulated people to attend the TU Delft workshop on nD-Pointclouds
 
 ## Plans for the coming year
-- Presentation on Linked Data
+- Presentation on energy costs of data management (Jaro)
+- Introduction to Semantic Web / Linked Data technologies (Kody)
+- Invited speaker Vincent Emonet, Presentation about Data transformation / wrangling.
 - Capita selecta from currently running projects
 - Data design discussion sessions
 
