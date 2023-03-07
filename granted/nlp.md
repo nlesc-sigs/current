@@ -3,15 +3,18 @@
 ## What is/will be the name of the SIG?
 Natural Language Processing SIG
 
-## Which two persons will act as SIG Leads?
+## Which person will act as SIG Leads?
+- Laura Ootes (l.ootes@esciencecenter.nl)
+
+The co-leads are:
 - Erik Tjong Kim Sang
-- Jisk Attema
+- Carsten Schnober
 
 ## What is SIG’s mission?
 The mission of the Natural Language Processing SIG is to improve the awareness of recent relevant natural language processing techniques among eScience engineers
 
 ## What is the GitHub repository of the SIG use?
-https://github.com/NLeSC/natural-language-processing-sig
+https://github.com/nlesc-sigs/nlp-sig
 
 ## What is the Office group that the SIG uses?
 eHumanities
