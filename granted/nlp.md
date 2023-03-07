@@ -7,8 +7,8 @@ Natural Language Processing SIG
 - Laura Ootes (l.ootes@esciencecenter.nl)
 
 The co-leads are:
-- Erik Tjong Kim Sang
-- Carsten Schnober
+- Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl, was SIG Lead in 2022)
+- Carsten Schnober (c.schnober(at)esciencecenter.nl, will be SIG Lead in 2024)
 
 ## What is SIG’s mission?
 The mission of the Natural Language Processing SIG is to improve the awareness of recent relevant natural language processing techniques among eScience engineers
@@ -34,7 +34,7 @@ eHumanities
 | 2022-01-10 | Erik | 5 | NLP @ NLeSC |
 
 
-## Plans for the coming year
+## Plans for the coming year (2023)
 <!--  help text goes here  -->
 - **Finish course Deep Learning for NLP**: we have one [https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z](video lecture) left and might want to add one or two hands-on sessions
 - **Continue general meetings**: in which we discuss the progress of the running NLeSC NLP projects
