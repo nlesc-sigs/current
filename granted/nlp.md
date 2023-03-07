@@ -36,8 +36,18 @@ eHumanities
 
 ## Plans for the coming year (2023)
 <!--  help text goes here  -->
-- **Finish course Deep Learning for NLP**: we have one [https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z](video lecture) left and might want to add one or two hands-on sessions
-- **Continue general meetings**: in which we discuss the progress of the running NLeSC NLP projects
+**Continue general meetings**: in which we discuss the progress of the running NLeSC NLP projects
+
+Planned sessions:
+| Date | Time |Topic | More info |
+|------|------|------|------------|
+| Thursday 9 March 2023 | 13:30-14:30 | Erik Tjong Kim Sang: Bert hands-on session ([notebook](https://github.com/eriktks/bert_tutorial)) | [Teams link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZDJkOWIyMGUtZjgzNC00MmEzLWFiOWUtYTMzY2M1MDZhYmNk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522aa3aeacc-6307-42b2-ac05-787dd5c32574%2522%252c%2522Oid%2522%253a%2522bcbbafe4-e50f-4f75-9e56-e8a65f2b791e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=81ecf3d3-6e57-4714-bbdb-5ffe06ff223c&directDl=true&msLaunch=true&enableMobilePage=true) |
+| Thursday 6 April 2023 | 13:30-14:30 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
+| Thursday 4 May 2023 | 13:30-14:30 |  | (EACL Dubrovnik) |
+| Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
+| Thursday 29 June 2023 | 13:30-14:30 | Eva Viviani: [Paper discussion](https://arxiv.org/pdf/2302.07232.pdf) | |
+
+
 
 ## What are the expected outputs of the proposed SIG?
 - Improved awareness of natural language processing issues in current eScience projects by increased communication between knowledgeable and interested engineers
