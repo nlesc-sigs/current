@@ -50,7 +50,7 @@ Planned sessions:
 
 
 ## What are the expected outputs of the proposed SIG?
-- Improved awareness of natural language processing issues in current eScience projects by increased communication between knowledgeable and interested engineers
-- Better chance of solving bottlenecks in these projects thanks to feedback of our team
-- Enhanced understanding of recent natural language processing techniques among eScience engineers by presentations/courses of recent developments in the field
+- Improve the awareness of natural language processing issues in current eScience projects by increasing the communication between knowledgeable and interested engineers
+- Share knowledge about and experiences with NLP. This will create a better chance of solving bottlenecks in these projects thanks to feedback of our team
+- Enhance the understanding of recent natural language processing techniques among eScience engineers by presentations/courses of recent developments in the field
 
