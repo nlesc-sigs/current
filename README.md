@@ -14,7 +14,7 @@
 | Thursday 2023-02-09 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Erik     |
 | Thursday 2023-02-09 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-02-16 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
-| Thursday 2023-02-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               |          |
+| Thursday 2023-02-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               | Chris    |
 | Thursday 2023-02-16 14:30 | 12   | [GPU #2](granted/gpu.md)                                      |          |
 | Thursday 2023-02-23 9:30  | 1    | [Data](granted/data.md)                                       | Willem   |
 | Thursday 2023-02-23 13:30 | 2    | [Software Sustainability](granted/software-sustainability.md) |          |
@@ -26,7 +26,7 @@
 | Thursday 2023-03-09 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
 | Thursday 2023-03-09 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-03-16 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
-| Thursday 2023-03-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               |          |
+| Thursday 2023-03-16 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               | Chris    |
 | Thursday 2023-03-16 14:30 | 12   | [GPU #2](granted/gpu.md)                                      |          |
 
 etc.
