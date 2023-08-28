@@ -14,8 +14,8 @@
 | Thursday 2023-09-28 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Erik     |
 | Thursday 2023-09-28 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-10-05 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
-| Thursday 2023-10-05 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               | Aron     |
-| Thursday 2023-10-05 14:30 | 12   | [GPU #2](granted/gpu.md)                                      | Alessio  |
+| Thursday 2023-10-05 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
+| Thursday 2023-10-05 14:30 | 12   | [Machine Learning](granted/machine-learning.md)               | Aron     |
 | Thursday 2023-10-12 9:30  | 1    | [Data](granted/data.md)                                       | Willem   |
 | Thursday 2023-10-12 13:30 | 2    | [Software Sustainability](granted/software-sustainability.md) | Carlos   |
 | Thursday 2023-10-12 14:30 | 3    | [Analytics #1](granted/analytics.md)                          | Artur    |
@@ -26,7 +26,7 @@
 | Thursday 2023-10-26 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
 | Thursday 2023-10-26 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-11-02 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
-| Thursday 2023-11-02 13:30 | 11   | [Machine Learning](granted/machine-learning.md)               | Aron     |
-| Thursday 2023-11-02 14:30 | 12   | [GPU #2](granted/gpu.md)                                      | Alessio  |
+| Thursday 2023-11-02 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
+| Thursday 2023-11-02 14:30 | 12   | [Machine Learning](granted/machine-learning.md)               | Aron     |
 
 etc.
