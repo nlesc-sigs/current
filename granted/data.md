@@ -10,7 +10,7 @@ The co-lead is:
 - Reggie Cushing (r.cushing@esciencecenter.nl)
 
 ## What is SIG’s mission?
-Our mission is to share data handling and data management expertise within the eScience center. Data-SIG is the first point of contact for engineers who face data-challenges.
+Our mission is to share data handling and data management expertise within the eScience center. Data SIG is the first point of contact for engineers who face data challenges.
 
 ## What is the GitHub repository of the SIG use?
 https://github.com/nlesc-sigs/data-sig
