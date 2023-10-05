@@ -23,7 +23,7 @@ Data SIG [channel](https://teams.microsoft.com/l/team/19%3a3a9a45d32926417d8b96c
 - Stimulated people to attend the TU Delft workshop on nD-Pointclouds
 
 ## Plans for the coming year
-The SIG will have a monthly meeting. The SIG will organise a variety of sessions to cater to different aspects of data handling and processing, ensuring covering topics over a wide spectrum. The follwing types of sessions will be organised:
+The SIG will have a monthly meeting. The SIG will organise a variety of sessions to cater to different aspects of data handling and processing, ensuring that we cover data topics over a wide spectrum. The following types of sessions will be organised:
 
 **Learn**:  The SIG focuses on fostering awareness of current, new and emerging data technologies. Together we gain valuable insights into the evolving data landscapes from tutorials and talks.
 
