@@ -49,10 +49,10 @@
 | **Thursday 2023-12-21 14:30** | 6    | [Machine Learning #2](granted/machine-learning.md)            | Aron     |
 | -- skipping December 28 -- | | | |
 | **Thursday 2024-01-04 9:30**  | 7    | [Soft Skills](granted/soft-skills.md)                         | Jaro     |
-| **Thursday 2024-01-04 13:30** | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
+| **Thursday 2024-01-04 13:30** | 8    | up for grabs                                                  |          |
 | **Thursday 2024-01-04 14:30** | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2024-01-11 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
-| Thursday 2024-01-11 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
+| Thursday 2024-01-11 13:30 | 11   | [Natural Language Processing](granted/nlp.md)                 | Laura  |
 | Thursday 2024-01-11 14:30 | 12   | [Machine Learning #1](granted/machine-learning.md)            | Aron     |
 | Thursday 2024-01-18 9:30  | 1    | [Data](granted/data.md)                                       | Maurice  |
 | Thursday 2024-01-18 13:30 | 2    | [Software Sustainability](granted/software-sustainability.md) | Carlos   |
