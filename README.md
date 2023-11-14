@@ -36,10 +36,10 @@
 | Thursday 2023-11-16 14:30 | 6    | [Analytics #2](granted/analytics.md)                          | Johan    |
 | Thursday 2023-11-23 9:30  | 7    | [Soft Skills](granted/soft-skills.md)                         | Jaro     |
 | Thursday 2023-11-23 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
-| Thursday 2023-11-23 14:30 | 12   | [Machine Learning #1](granted/machine-learning.md)            | Aron     |
+| Thursday 2023-11-23 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-11-30 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
 | Thursday 2023-11-30 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
-| Thursday 2023-11-30 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
+| Thursday 2023-11-30 14:30 | 12   | [Machine Learning #1](granted/machine-learning.md)            | Aron     |
 | Thursday 2023-12-07 9:30  | 1    | [Data](granted/data.md)                                       | Maurice  |
 | Thursday 2023-12-07 13:30 | 2    | [Software Sustainability](granted/software-sustainability.md) | Carlos   |
 | Thursday 2023-12-07 14:30 | 3    | [Analytics #1](granted/analytics.md)                          | Johan    |
