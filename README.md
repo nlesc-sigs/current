@@ -61,8 +61,8 @@
 | Thursday 2024-01-25 13:30 | 5    | [GPU #1](granted/gpu.md)                                      | Alessio  |
 | Thursday 2024-01-25 14:30 | 6    | [Machine Learning #2](granted/machine-learning.md)            | Aron     |
 | Thursday 2024-02-01 9:30  | 7    | [Soft Skills](granted/soft-skills.md)                         | Jaro     |
-| Thursday 2024-02-01 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
 | Thursday 2024-02-01 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
+| Thursday 2024-02-01 15:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
 | Thursday 2024-02-08 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
 | Thursday 2024-02-08 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
 | Thursday 2024-02-08 14:30 | 12   | [Machine Learning #1](granted/machine-learning.md)            | Aron     |
