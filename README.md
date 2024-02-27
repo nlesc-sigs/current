@@ -23,7 +23,7 @@
 | Thursday 2023-10-19 13:30 | 5    | [GPU #1](granted/gpu.md)                                      | Alessio  |
 | Thursday 2023-10-19 14:30 | 6    | [Machine Learning #2](granted/machine-learning.md)            | Aron     |
 | Thursday 2023-10-26 9:30  | 7    | [Soft Skills](granted/soft-skills.md)                         | Jaro     |
-| Thursday 2023-10-26 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Laura    |
+| Thursday 2023-10-26 13:30 | 8    | [Natural Language Processing](granted/nlp.md)                 | Carsten  |
 | Thursday 2023-10-26 14:30 | 9    | [Science Communication](granted/scicomm.md)                   | Pablo R. |
 | Thursday 2023-11-02 9:30  | 10   | [Quantum Computing](granted/qc.md)                            | Pranav   |
 | Thursday 2023-11-02 13:30 | 11   | [GPU #2](granted/gpu.md)                                      | Alessio  |
