@@ -31,7 +31,7 @@ https://github.com/NLeSC/Machine_Learning_SIG
 <!--  help text goes here  -->
 mlpr@esciencecenter.nl
 
-## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
+## SIG outcomes in the period April 2024 - October 2024 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
 - **Form**: Bi-weekly sessions
