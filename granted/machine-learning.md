@@ -31,11 +31,11 @@ https://github.com/NLeSC/Machine_Learning_SIG
 <!--  help text goes here  -->
 mlpr@esciencecenter.nl
 
-## SIG outcomes in the period April 2024 - October 2024 (for existing SIGs)
+## SIG outcomes in the period April 2023 - October 2023 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
 - **Form**: Bi-weekly sessions
-- **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a topic of current interest. External speakers are hihgly encouraged.
+- **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a topic of current interest. External speakers were highly encouraged and present.
 ## Plans for the period 
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
