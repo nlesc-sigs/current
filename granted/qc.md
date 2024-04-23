@@ -6,7 +6,8 @@ Quantum Computing SIG
 
 ## Which person will act as SIG Lead?
 
-Pranav Chandramouli (p.chandramouli@esciencecenter.nl)
+Carlos M. R. Rocha (c.rocha@esciencecenter.nl)
+<!--- Pranav Chandramouli (p.chandramouli@esciencecenter.nl) -->
 
 ## What is SIG’s mission?
 
@@ -26,7 +27,15 @@ https://github.com/nlesc-sigs/QC-SIG
 
 ## SIG outcomes of the past year (for existing SIGs)
 
-New SIG to start in spring 2023
+All sections of the past year aimed at providing an overview of the most fundamental aspects of quantum computing. We presented and discussed together the basics of:
+- qubits, quantum gates, quantum circuits, and quantum entanglement
+- fundamental quantum phenomena like quantum parallelism, quantum teleportation and superdense coding
+- quantum hardware and noisy gates
+
+In addition to basic theory discussions, we have also: 
+- organized hands-on coding sections
+- provided an overview of a few ongoing QC projects within the center, *e.g.*, [QCforQC](https://research-software-directory.org/projects/qcforqc)
+- invited one external speaker, Amira Abbas from QuSoft, to talk about quantum machine learning
 
 ## Plans for the coming year
 <!--  help text goes here  -->
