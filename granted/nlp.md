@@ -4,11 +4,8 @@
 Natural Language Processing SIG
 
 ## Which person will act as SIG Leads?
-- Laura Ootes (l.ootes@esciencecenter.nl)
 
-The co-leads are:
-- Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl, was SIG Lead in 2022)
-- Carsten Schnober (c.schnober(at)esciencecenter.nl, will be SIG Lead in 2024)
+https://github.com/nlesc-sigs/nlp-sig/blob/ca0c4f7f13e2ff4e5c7934f5fb37a9cdab38d9bb/README.md#L5C1-L8C93
 
 ## What is SIG’s mission?
 The mission of the Natural Language Processing SIG is to improve the awareness of recent relevant natural language processing techniques among eScience engineers
