@@ -40,6 +40,7 @@ Our interest lies in the following themes:
 - understanding deep learning algorithms and backpropagation
 - simulation modeling of the socio-economic aspects of climate change
 
+For some of these topics, we will collaborate with the Machine Learning SIG.
 
 ## What are the expected outputs of the SIG?
 - Internal training on a specific topic (mentioned above)
