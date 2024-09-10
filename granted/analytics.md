@@ -26,7 +26,8 @@ We aim for a deeper understanding than is generally needed to use a specific met
 
 ## What is the GitHub repository of the SIG use?
 <!--  Please transfer your SIG existing repo to this GitHub organization  -->
-<https://github.com/NLeSC/Analytics-SIG>
+https://github.com/nlesc-sigs/analytics-sig
+
 
 ## What is the Office group that the SIG uses?
 analytics@esciencecenter.nl
